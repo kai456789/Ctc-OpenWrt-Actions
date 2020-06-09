@@ -3,7 +3,7 @@ name: Build-OpenWrt
 on:
   push:
     branches: 
-      - master
+      - ctc 
 #  release:
 #    types: published
 #  schedule:
