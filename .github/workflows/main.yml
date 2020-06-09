@@ -6,8 +6,8 @@ on:
       - ctc 
 #  release:
 #    types: published
-#  schedule:
-#    - cron: 0 8 * * 5
+  schedule:
+    - cron: 0 16 * * 5
 #  watch:
 #    types: started
 #  repository_dispatch:
