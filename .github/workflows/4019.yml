@@ -14,7 +14,7 @@ on:
     types: published
   push:
     branches:
-      - master
+      - ctc-su-master
     paths:
       - '.config'
   schedule:
