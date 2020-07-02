@@ -13,7 +13,7 @@ on:
     types: [published]
   push:
     branches: 
-      - ctc-su-aster
+      - ctc-su-master
     paths:
       - '.config'
   schedule:
