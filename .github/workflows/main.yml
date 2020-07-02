@@ -3,7 +3,7 @@ name: Build-OpenWrt-ctc-master
 on:
   push:
     branches: 
-      - ctc 
+      - ctc-master 
 #  release:
 #    types: published
   schedule:
